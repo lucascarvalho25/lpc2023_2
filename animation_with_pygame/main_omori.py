@@ -3,6 +3,8 @@ import spritesheet
 
 pygame.init()
 
+#Para mover entre as animações, use as setas direcionais UP e DOWN.
+
 screen_width = 500
 screen_height = 500
 
